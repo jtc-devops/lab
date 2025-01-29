@@ -23,7 +23,3 @@ The **Network Lab** is a controlled environment designed for experimenting with 
 3. **Topology**
    - Star, Mesh, or Hybrid network design
 
-## Usage Instructions
-1. Clone the repository (if applicable):
-   ```sh
-   git clone https://github.com/your-repo/network-lab.git
